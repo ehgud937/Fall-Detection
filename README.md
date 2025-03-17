@@ -10,7 +10,10 @@
 - **자동 알림 시스템**: 낙상 감지 시 이미지 캡처 및 알림 발송
 - **직관적 시각화**: 스켈레톤 모델 및 디버그 정보 실시간 표시
 
-## 시스템 아키텍처
+## 동작 영상
+![output_1](https://github.com/user-attachments/assets/7b175c4c-a555-437c-b70c-4599425d41df)
+![output_2](https://github.com/user-attachments/assets/e9c610af-9645-418d-b2b5-1b0a1cbda16b)
+![output_video](https://github.com/user-attachments/assets/2e627f2c-1d09-49ca-ab7d-17b0cbc6b816)
 
 ### 핵심 컴포넌트
 
