@@ -13,7 +13,9 @@
 ## 동작 영상
 ![output_1](https://github.com/user-attachments/assets/7b175c4c-a555-437c-b70c-4599425d41df)
 ![output_2](https://github.com/user-attachments/assets/e9c610af-9645-418d-b2b5-1b0a1cbda16b)
-![output_video](https://github.com/user-attachments/assets/2e627f2c-1d09-49ca-ab7d-17b0cbc6b816)
+![output_3](https://github.com/user-attachments/assets/8c883082-f862-4a24-89b9-409612c16744)
+![자료1](https://github.com/user-attachments/assets/2ed5befd-9527-48e7-8831-a5a8379f260e)
+![자료2](https://github.com/user-attachments/assets/23dc8577-f034-4d99-893a-3b93f4610431)
 
 ### 핵심 컴포넌트
 
